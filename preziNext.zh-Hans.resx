@@ -1,0 +1,2118 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <data name="TrialExpireSoonFewDaysMUL" xml:space="preserve">
+    <value>Your Prezi team trial ends in {0} days.</value>
+  </data>
+  <data name="ShareDialogPresentToRemoteAudience" xml:space="preserve">
+    <value>Present to remote audience</value>
+  </data>
+  <data name="FilterStringAllSupportedMediaFiles" xml:space="preserve">
+    <value>Images, Videos, PDF, PPT, PPTX</value>
+  </data>
+  <data name="PitchUpdaterYouAreUpToDateTitle" xml:space="preserve">
+    <value>You've got it!</value>
+  </data>
+  <data name="LicenseExpiredUpgradeRibbonButtonText" xml:space="preserve">
+    <value>Renew now</value>
+  </data>
+  <data name="SubscriptionAndAccountTitle" xml:space="preserve">
+    <value>Subscription &amp; Account</value>
+  </data>
+  <data name="ImportFailureDescriptionLine1" xml:space="preserve">
+    <value>This could be due to a poor network connection or other file source problem.</value>
+  </data>
+  <data name="ImportFailureDescriptionLine2" xml:space="preserve">
+    <value>Please obtain a new version of the file and try importing it again.</value>
+  </data>
+  <data name="FoldersHeader" xml:space="preserve">
+    <value>Folders</value>
+  </data>
+  <data name="GeneratedAt" xml:space="preserve">
+    <value>Generated {0}</value>
+  </data>
+  <data name="CoeditUploadFailed" xml:space="preserve">
+    <value>Your upload has failed.</value>
+  </data>
+  <data name="UpdateAvailableText" xml:space="preserve">
+    <value>Updates are available</value>
+  </data>
+  <data name="String1" xml:space="preserve">
+    <value />
+  </data>
+  <data name="TemplateDialogDescriptionOnProgress" xml:space="preserve">
+    <value>New templates are being added. Please wait...</value>
+  </data>
+  <data name="ClearFilterButton" xml:space="preserve">
+    <value>Clear filter</value>
+  </data>
+  <data name="DeletePreziOfflineSecondLine" xml:space="preserve">
+    <value>It will be deleted from prezi.com and all other devices when you go online.</value>
+  </data>
+  <data name="LicenseExpirationTitle" xml:space="preserve">
+    <value>{0} for Windows cannot be used with the license associated with “{1}”</value>
+  </data>
+  <data name="ShareDialogMyCollaborators" xml:space="preserve">
+    <value>My collaborators</value>
+  </data>
+  <data name="PreziUploadFailDialogTextLine2" xml:space="preserve">
+    <value>Please try again or contact support.</value>
+  </data>
+  <data name="PreziUploadFailDialogTextLine1" xml:space="preserve">
+    <value>There was an error while syncing this presentation with the Prezi server. </value>
+  </data>
+  <data name="OnBoardingBubbleLink" xml:space="preserve">
+    <value>If you’d rather watch a video [a href='https://prezi.com/business/workshop/']click here[/a].</value>
+  </data>
+  <data name="TemplateDialogTemplatesAvailableGetThemLater" xml:space="preserve">
+    <value>Get them later</value>
+  </data>
+  <data name="ViewerIdentificationRequired" xml:space="preserve">
+    <value>Require viewer name and email</value>
+  </data>
+  <data name="TemplateDialogTitleOnProgress" xml:space="preserve">
+    <value>Updating templates…</value>
+  </data>
+  <data name="ExportPresentationDescription" xml:space="preserve">
+    <value>Select the operating system for this presentation:</value>
+  </data>
+  <data name="LicenseExpiredSULTitle" xml:space="preserve">
+    <value>Uh-oh. Looks like your Prezi license has expired.</value>
+  </data>
+  <data name="SharedPrezisFilter" xml:space="preserve">
+    <value>Shared with me</value>
+  </data>
+  <data name="PitchSettingsTemplatesTitle" xml:space="preserve">
+    <value>Templates</value>
+  </data>
+  <data name="PresentationInProgress" xml:space="preserve">
+    <value>{0} is presenting</value>
+  </data>
+  <data name="DetailViewOnboardingAnalytics" xml:space="preserve">
+    <value>See your own stats. This is how you viewed the “Get started” presentation.</value>
+  </data>
+  <data name="Editor" xml:space="preserve">
+    <value>Editor</value>
+  </data>
+  <data name="OkButton" xml:space="preserve">
+    <value>Ok</value>
+  </data>
+  <data name="AddCollaboratorsMenuItem" xml:space="preserve">
+    <value>Add collaborators</value>
+  </data>
+  <data name="CommentingPaywallSubTitle" xml:space="preserve">
+    <value>Prezi Business lets you give or receive comments from teammates as you build presentations, making collaboration a breeze.</value>
+  </data>
+  <data name="CoreInAppMessageRibbonText" xml:space="preserve">
+    <value>Reach the Next level of presenting with our most powerful product yet.</value>
+  </data>
+  <data name="PreziCardUploadFailed" xml:space="preserve">
+    <value>Upload failed</value>
+  </data>
+  <data name="EnterLinkNamePlaceHolder" xml:space="preserve">
+    <value>eg. John Doe or client's company name</value>
+  </data>
+  <data name="ImportingSucceeded" xml:space="preserve">
+    <value>Imported</value>
+  </data>
+  <data name="ShareDialogWithTheLink" xml:space="preserve">
+    <value>People with the link</value>
+  </data>
+  <data name="MinutesAgo" xml:space="preserve">
+    <value>{0} minutes ago</value>
+  </data>
+  <data name="AllowInsertMediaWithConversionTitle" xml:space="preserve">
+    <value>Allow online conversion in this presentation</value>
+  </data>
+  <data name="PresentationInProgressAnonymous" xml:space="preserve">
+    <value>Presentation in progress</value>
+  </data>
+  <data name="PezImportAssetNotFoundInRepoErrorTitle" xml:space="preserve">
+    <value>Missing content</value>
+  </data>
+  <data name="ViewAccountAndEmailSettings" xml:space="preserve">
+    <value>View account and email settings</value>
+  </data>
+  <data name="SkillLevelSkilled" xml:space="preserve">
+    <value>Skilled</value>
+  </data>
+  <data name="AnalyticsPaywallTitle" xml:space="preserve">
+    <value>Sharpen your game with Prezi Analytics</value>
+  </data>
+  <data name="PitchInAppMessageAtNoSearchResult" xml:space="preserve">
+    <value>Try your search again in [a href='{0}']{1}[/a].</value>
+  </data>
+  <data name="ExportToPdfContextMenuItem" xml:space="preserve">
+    <value>Export to PDF</value>
+  </data>
+  <data name="PezExportNotEnoughDiskSpaceErrorTitle" xml:space="preserve">
+    <value>There is not enough disk space to save the file</value>
+  </data>
+  <data name="PitchUpdaterRunInBackground" xml:space="preserve">
+    <value>Run in background</value>
+  </data>
+  <data name="ShareDialogPrivacyAndShare" xml:space="preserve">
+    <value>Privacy &amp; Share</value>
+  </data>
+  <data name="ValidUntilFormat" xml:space="preserve">
+    <value>{0}</value>
+  </data>
+  <data name="OwnedByMePrezisFilter" xml:space="preserve">
+    <value>Created by me</value>
+  </data>
+  <data name="TrackingStarted" xml:space="preserve">
+    <value>Tracking started</value>
+  </data>
+  <data name="GoogleSsoEmailSentDescription" xml:space="preserve">
+    <value>Please check it for instructions on how to verify and associate your account.</value>
+  </data>
+  <data name="OfflineSyncToolTip" xml:space="preserve">
+    <value>Go online to sync</value>
+  </data>
+  <data name="RenamePrezi" xml:space="preserve">
+    <value>Rename</value>
+  </data>
+  <data name="PitchLicenseExpirationTitle" xml:space="preserve">
+    <value>{0} cannot be used with the license associated with “{1}”</value>
+  </data>
+  <data name="LicenseExpirationRetryLogin" xml:space="preserve">
+    <value>Use a different account</value>
+  </data>
+  <data name="RequestRestartForLanguageChangeTitle" xml:space="preserve">
+    <value>Change language</value>
+  </data>
+  <data name="BluetoothFeatureDialogApply" xml:space="preserve">
+    <value>Yes, continue</value>
+  </data>
+  <data name="PrivacySettingsPrivacyTitle" xml:space="preserve">
+    <value>Privacy</value>
+  </data>
+  <data name="ShareViaLinkEdit" xml:space="preserve">
+    <value>Edit link</value>
+  </data>
+  <data name="PresenterViewToolButton" xml:space="preserve">
+    <value>Presenter view</value>
+  </data>
+  <data name="PdfExportInProgress" xml:space="preserve">
+    <value>Exporting...</value>
+  </data>
+  <data name="BluetoothFeatureDialogTitle" xml:space="preserve">
+    <value>Let {0} use Bluetooth?</value>
+  </data>
+  <data name="PdfExportError" xml:space="preserve">
+    <value>An error occured while exporting to PDF, please try again.</value>
+  </data>
+  <data name="Syncing" xml:space="preserve">
+    <value>Syncing...</value>
+  </data>
+  <data name="LivePreziPaywallTitle" xml:space="preserve">
+    <value>Share your presentations instantly with Prezi Business</value>
+  </data>
+  <data name="LicenseExpiredMULAdminMessageSecondLine" xml:space="preserve">
+    <value>Feel free to contact us with any questions at {0}.</value>
+  </data>
+  <data name="NewPrezi" xml:space="preserve">
+    <value>New presentation</value>
+  </data>
+  <data name="PreziDownloadFailDialogTitle" xml:space="preserve">
+    <value>Download failed</value>
+  </data>
+  <data name="MoveToSynced" xml:space="preserve">
+    <value>Move to Synced presentations</value>
+  </data>
+  <data name="LicenseExpiredMULUpgradeButtonText" xml:space="preserve">
+    <value>Renew team license</value>
+  </data>
+  <data name="SearchTryAgain" xml:space="preserve">
+    <value>This search came up empty</value>
+  </data>
+  <data name="PreziDetailsAnalyticsLink" xml:space="preserve">
+    <value>Start tracking at prezi.com/analytics.</value>
+  </data>
+  <data name="ShareDialogMyCollaboratorsDescription" xml:space="preserve">
+    <value>Collaborators can view or edit</value>
+  </data>
+  <data name="FeedbackEnd" xml:space="preserve">
+    <value>Thank you for your feedback!</value>
+  </data>
+  <data name="RemoveButton" xml:space="preserve">
+    <value>Remove</value>
+  </data>
+  <data name="ActivateButtonText" xml:space="preserve">
+    <value>Buy {0}</value>
+  </data>
+  <data name="ImportConflictDialogOpenButton" xml:space="preserve">
+    <value>Open existing</value>
+  </data>
+  <data name="SearchMenuItem" xml:space="preserve">
+    <value>Search presentations</value>
+  </data>
+  <data name="SignOutMenuItem" xml:space="preserve">
+    <value>Sign out</value>
+  </data>
+  <data name="PresentDownloadedVersion" xml:space="preserve">
+    <value>Present now</value>
+  </data>
+  <data name="CoeditLocalChangesSavedNotification" xml:space="preserve">
+    <value>Desktop version saved. Which version do you want to continue editing?</value>
+  </data>
+  <data name="MoreCollaboratosTooltip" xml:space="preserve">
+    <value>{0}{1}+{2} more</value>
+  </data>
+  <data name="DeleteFolderTextLine1" xml:space="preserve">
+    <value>Are you sure you want to delete this folder?</value>
+  </data>
+  <data name="DeleteFolderTextLine2" xml:space="preserve">
+    <value>The presentations in the folder won’t be deleted and can be found under “{0}”.</value>
+  </data>
+  <data name="DetailViewPromotionBubbleContent" xml:space="preserve">
+    <value>Check out what you can do with a presentation.</value>
+  </data>
+  <data name="AllPrezisFilter" xml:space="preserve">
+    <value>All presentations</value>
+  </data>
+  <data name="CopyOf" xml:space="preserve">
+    <value>Copy of {0}</value>
+  </data>
+  <data name="CoeditConflictOpenDesktopVersion" xml:space="preserve">
+    <value>Edit the desktop version</value>
+  </data>
+  <data name="PitchUpdaterUpdateIsInProgressDescription" xml:space="preserve">
+    <value>{0} {1} is currently being downloaded and installed. If you stop it now, you'll need to restart the update.</value>
+  </data>
+  <data name="ShareViaLinkMenuItem" xml:space="preserve">
+    <value>Share view link</value>
+  </data>
+  <data name="UseShareInsteadOfPezImport" xml:space="preserve">
+    <value>We’d love to show you this presentation, but its owner must add you as a collaborator to give you access</value>
+  </data>
+  <data name="PreziUploadFailDialogTitle" xml:space="preserve">
+    <value>Sync failed</value>
+  </data>
+  <data name="ExportToPdfToolButton" xml:space="preserve">
+    <value>Export to PDF</value>
+  </data>
+  <data name="CheckForTemplateUpdates" xml:space="preserve">
+    <value>Check for new templates</value>
+  </data>
+  <data name="SearchResults" xml:space="preserve">
+    <value>Search results</value>
+  </data>
+  <data name="FeedbackOfflineTitle" xml:space="preserve">
+    <value>Oops, you're offline.</value>
+  </data>
+  <data name="AnonymousViewer" xml:space="preserve">
+    <value>Viewer {0}</value>
+  </data>
+  <data name="CoeditEditorSidebarConflictMessage3" xml:space="preserve">
+    <value>Any changes you have made here will not be saved, and the online version will replace this version. This cannot be undone.</value>
+  </data>
+  <data name="CoeditEditorSidebarConflictMessage2" xml:space="preserve">
+    <value>Both versions wil be saved and kept.</value>
+  </data>
+  <data name="CoeditEditorSidebarConflictMessage1" xml:space="preserve">
+    <value>While you were offline, some changes were made to the online version of this presentation.</value>
+  </data>
+  <data name="CreateFirstLink" xml:space="preserve">
+    <value>Create a unique link to share this presentation and get the conversation started.</value>
+  </data>
+  <data name="ShareViaLinkPreview" xml:space="preserve">
+    <value>Preview link in Browser</value>
+  </data>
+  <data name="FilterStringPdfFiles" xml:space="preserve">
+    <value>PDF files</value>
+  </data>
+  <data name="DeletePreziLocal" xml:space="preserve">
+    <value>Are you sure you want to delete this presentation? 
+It will be deleted from your computer.</value>
+  </data>
+  <data name="TemplateDialogTemplatesOnProgressNumberOfTemplatesDownloaded" xml:space="preserve">
+    <value>{0} out of {1} templates</value>
+  </data>
+  <data name="LicenseExpiredMULMessageThirdLine" xml:space="preserve">
+    <value>IMPORTANT: Be sure to SAVE your work before closing the Prezi app.</value>
+  </data>
+  <data name="MultipleUnsyncedPreziText" xml:space="preserve">
+    <value>{0} unsynced presentations</value>
+  </data>
+  <data name="LoginWithFacebook" xml:space="preserve">
+    <value>Log in with Facebook</value>
+  </data>
+  <data name="DeletePreziTitle" xml:space="preserve">
+    <value>Delete "{0}"?</value>
+  </data>
+  <data name="PitchConflictDialogMakeACopy" xml:space="preserve">
+    <value>Save a version as</value>
+  </data>
+  <data name="ImportFailureTitle" xml:space="preserve">
+    <value>This file is corrupted</value>
+  </data>
+  <data name="PreziRemoteButton" xml:space="preserve">
+    <value>Prezi Remote</value>
+  </data>
+  <data name="ImportConflictDialogImportButton" xml:space="preserve">
+    <value>Import as new</value>
+  </data>
+  <data name="DeletePreziOnline" xml:space="preserve">
+    <value>Are you sure you want to delete '{0}' presentation from all your devices and Prezi.com? 
+You will not be able to undo this action.</value>
+  </data>
+  <data name="ExportPresentationFolderSelectionDescription" xml:space="preserve">
+    <value>Select the folder you want your presentation(s) to be saved</value>
+  </data>
+  <data name="CannotConnectErrorMessage" xml:space="preserve">
+    <value>Unable to connect to the Internet. If you’re online and still have problems, check out [a href='https://prezi.com/support/article/win-mac/troubleshooting-prezi-for-windows-mac-connection-issues/']this article[/a] for help.</value>
+  </data>
+  <data name="SearchNoResult" xml:space="preserve">
+    <value>no results for</value>
+  </data>
+  <data name="PitchSaveTakesLongerTimeDescription" xml:space="preserve">
+    <value>Closing now might not save recent changes made to your presentation. Please wait until saving is complete to avoid losing your work.</value>
+  </data>
+  <data name="UpdaterDialogTitle" xml:space="preserve">
+    <value>Update for {0}</value>
+  </data>
+  <data name="Logout" xml:space="preserve">
+    <value>Log out</value>
+  </data>
+  <data name="PreziDetailsCollaboratorToolbarNetworkError" xml:space="preserve">
+    <value>Network error occured</value>
+  </data>
+  <data name="CoeditCheckForOnlineChanges" xml:space="preserve">
+    <value>You’re working on a shared presentation. Please wait while your presentation is checked for any possible changes made online.</value>
+  </data>
+  <data name="ConflictResolutionKeepDesktopVersion" xml:space="preserve">
+    <value>Keep desktop version</value>
+  </data>
+  <data name="ShowInExplorerButtonText" xml:space="preserve">
+    <value>Show in Explorer</value>
+  </data>
+  <data name="EmailUsedInsteadOfName" xml:space="preserve">
+    <value>Looks like you’ve entered an email address. Please enter a name for reference.</value>
+  </data>
+  <data name="NotSyncingStatusTextWithTime" xml:space="preserve">
+    <value>Synced {0}</value>
+  </data>
+  <data name="GoogleSsoNotPreziUserSignUp" xml:space="preserve">
+    <value>See plans</value>
+  </data>
+  <data name="RevokeLinkButtonText" xml:space="preserve">
+    <value>Delete Link</value>
+  </data>
+  <data name="WindowMenuPlaceHolder" xml:space="preserve">
+    <value>There are no presentations open</value>
+  </data>
+  <data name="LicenseExpirationTitleMigrationNeeded" xml:space="preserve">
+    <value>{0} for Windows cannot be used with the license associated with “{1}”</value>
+  </data>
+  <data name="PrivacySettingsPrivateDescription" xml:space="preserve">
+    <value>Collaborators and anyone with a view link can see this presentation</value>
+  </data>
+  <data name="SkillLevelsInPrezi" xml:space="preserve">
+    <value>Skill levels in Prezi</value>
+  </data>
+  <data name="AnalyticsPaywallFeautreIntro" xml:space="preserve">
+    <value>Start your Prezi Premium plan right now and get:</value>
+  </data>
+  <data name="TemplateDialogTitleOnError" xml:space="preserve">
+    <value>Download error</value>
+  </data>
+  <data name="PreziCardConflictText" xml:space="preserve">
+    <value>Modifications are not in sync</value>
+  </data>
+  <data name="ShareViaLinkTitle" xml:space="preserve">
+    <value>View links</value>
+  </data>
+  <data name="PitchCommenter" xml:space="preserve">
+    <value>Can comment</value>
+  </data>
+  <data name="LinksTitle" xml:space="preserve">
+    <value>Shared with</value>
+  </data>
+  <data name="DeleteFolder" xml:space="preserve">
+    <value>Delete</value>
+  </data>
+  <data name="NumberOfPrezisMore" xml:space="preserve">
+    <value>{0} presentations</value>
+  </data>
+  <data name="FilterStringAllSupportedVideoFiles" xml:space="preserve">
+    <value>Video files</value>
+  </data>
+  <data name="UpgradeNowButton" xml:space="preserve">
+    <value>Upgrade now</value>
+  </data>
+  <data name="PitchUpdaterYouAreNowUpToDateTitle" xml:space="preserve">
+    <value>{0} is up to date</value>
+  </data>
+  <data name="NewPreziInFolder" xml:space="preserve">
+    <value>New presentation in folder</value>
+  </data>
+  <data name="PresentPreziMenuItem" xml:space="preserve">
+    <value>Present</value>
+  </data>
+  <data name="PreziCardSyncToolTipDownload" xml:space="preserve">
+    <value>Downloading changes</value>
+  </data>
+  <data name="DeletePreziButton" xml:space="preserve">
+    <value>Delete</value>
+  </data>
+  <data name="ConflictOnlineVersion" xml:space="preserve">
+    <value>Online version</value>
+  </data>
+  <data name="TemplateChooserUseTemplate" xml:space="preserve">
+    <value>Use this template</value>
+  </data>
+  <data name="SettingsButtonText" xml:space="preserve">
+    <value>Settings</value>
+  </data>
+  <data name="ContactSupport" xml:space="preserve">
+    <value>Support</value>
+  </data>
+  <data name="DetailViewOnboardingCreateLinkNonGettingStarted" xml:space="preserve">
+    <value>Create a unique link each time you share this presentation and use Prezi Analytics to see how it performs.</value>
+  </data>
+  <data name="PdfSaveError" xml:space="preserve">
+    <value>Unable to save PDF file, please try again.</value>
+  </data>
+  <data name="PitchLearnCenterForPrezi" xml:space="preserve">
+    <value>Workshop &amp; training</value>
+  </data>
+  <data name="MigrationDiskFullTitle" xml:space="preserve">
+    <value>Not enough space for migration</value>
+  </data>
+  <data name="SkillDescriptionDialogGotIt" xml:space="preserve">
+    <value>Got it</value>
+  </data>
+  <data name="TrialExpireSoonOneDay" xml:space="preserve">
+    <value>Your trial ends in 1 day.</value>
+  </data>
+  <data name="CoeditEditorSidebarOfflineContinueButtonTitle" xml:space="preserve">
+    <value>Continue without copying</value>
+  </data>
+  <data name="Viewer" xml:space="preserve">
+    <value>Viewer</value>
+  </data>
+  <data name="TemplateChooserFilteredByColorLabel" xml:space="preserve">
+    <value>Filtered by color</value>
+  </data>
+  <data name="ExportToPortableToolButton" xml:space="preserve">
+    <value>Download</value>
+  </data>
+  <data name="CannotLoginWithTokenWhileLoggedInDescription" xml:space="preserve">
+    <value>Please log out and log in again using the Prezi account associated with Google.</value>
+  </data>
+  <data name="TrialExpireSoonLessThanOneDayMUL" xml:space="preserve">
+    <value>Less than 1 day until your team trial ends.</value>
+  </data>
+  <data name="NotOpenedYet" xml:space="preserve">
+    <value>Not opened yet</value>
+  </data>
+  <data name="UpgradeButton" xml:space="preserve">
+    <value>Upgrade</value>
+  </data>
+  <data name="ConflictDialogTextFirstLine" xml:space="preserve">
+    <value>Resolve conflict</value>
+  </data>
+  <data name="PreziDetailsViewSelectedLinkHeader" xml:space="preserve">
+    <value>Share this link with</value>
+  </data>
+  <data name="Languages" xml:space="preserve">
+    <value>Language</value>
+  </data>
+  <data name="PitchConflictDialogMakeACopyFailure" xml:space="preserve">
+    <value>An error occured while saving your changes.</value>
+  </data>
+  <data name="SaveFailedTitle" xml:space="preserve">
+    <value>Unable to save presentation</value>
+  </data>
+  <data name="NotSyncingStatusText" xml:space="preserve">
+    <value>Synced</value>
+  </data>
+  <data name="GenerateLink" xml:space="preserve">
+    <value>Generate link</value>
+  </data>
+  <data name="PitchUpdaterNotNowButton" xml:space="preserve">
+    <value>Not now</value>
+  </data>
+  <data name="ShareDialogShareOrRemote" xml:space="preserve">
+    <value>Share (or present remotely)</value>
+  </data>
+  <data name="PitchConflictDialogDescription" xml:space="preserve">
+    <value>This presentation has been edited while you were offline. Before it is synced, you can save a version with your changes.</value>
+  </data>
+  <data name="ConflictResolutionDialogTitle" xml:space="preserve">
+    <value>Resolve conflict</value>
+  </data>
+  <data name="PptImportPaywallSubitle" xml:space="preserve">
+    <value>Prezi Business makes it easier to get started with your existing PowerPoint slides.</value>
+  </data>
+  <data name="BusinessLicenseRequired" xml:space="preserve">
+    <value>A user must have a {0} license to collaborate on this presentation.</value>
+  </data>
+  <data name="GetNowButtonTextForTrialSUL" xml:space="preserve">
+    <value>Buy {0} now</value>
+  </data>
+  <data name="GetNowButtonTextForTrialMUL" xml:space="preserve">
+    <value>Buy Prezi Business now</value>
+  </data>
+  <data name="ProLicenseExpireSoonOneDay" xml:space="preserve">
+    <value>Your Prezi {0} license expires in 1 day.</value>
+  </data>
+  <data name="BackToEdit" xml:space="preserve">
+    <value>Continue editing</value>
+  </data>
+  <data name="OfflineAnalyitcsWarning" xml:space="preserve">
+    <value>Looks like you're offline. Please reconnect for the most updated analytics. This data is from {0}.</value>
+  </data>
+  <data name="PreziCardSyncToolTipUpload" xml:space="preserve">
+    <value>Uploading changes</value>
+  </data>
+  <data name="ExportToPbiz" xml:space="preserve">
+    <value>Export for support</value>
+  </data>
+  <data name="AddFolder" xml:space="preserve">
+    <value>Add folder</value>
+  </data>
+  <data name="RemoveCurrentUserCollaboratorsMessage" xml:space="preserve">
+    <value>If you continue, you will no longer have access to this presentation, and it will be permanently removed from your dashboard.</value>
+  </data>
+  <data name="JoinRemotePresentationDescription" xml:space="preserve">
+    <value>Paste the link received from the presenter</value>
+  </data>
+  <data name="ShowDownloadFailedOlderVersionAvailableDialogTitle" xml:space="preserve">
+    <value>The newest version of this presentation is not downloaded</value>
+  </data>
+  <data name="AverageCompletionRate" xml:space="preserve">
+    <value>Average completion rate</value>
+  </data>
+  <data name="DialogTitle" xml:space="preserve">
+    <value>Software update</value>
+  </data>
+  <data name="NewLink" xml:space="preserve">
+    <value>New link</value>
+  </data>
+  <data name="MediaWithConversionInsertOfflineTitle" xml:space="preserve">
+    <value>Check your internet connection</value>
+  </data>
+  <data name="FilterStringPowerpointFiles" xml:space="preserve">
+    <value>PowerPoint files</value>
+  </data>
+  <data name="Signup" xml:space="preserve">
+    <value>Sign up</value>
+  </data>
+  <data name="FailedToRevokeLink" xml:space="preserve">
+    <value>This link could not be deleted. Please try again​.​</value>
+  </data>
+  <data name="UpdateTemplatesNow" xml:space="preserve">
+    <value>Update templates now</value>
+  </data>
+  <data name="ShareInvitedUserIsNotPreziUserError" xml:space="preserve">
+    <value>{0} is not a prezi user</value>
+  </data>
+  <data name="DeleteFolderText" xml:space="preserve">
+    <value>Are you sure you want to delete this folder? The presentations in the folder won’t be deleted and can be found under “{0}”.</value>
+  </data>
+  <data name="PreviewThisLink" xml:space="preserve">
+    <value>Preview</value>
+  </data>
+  <data name="CouldNotLoadLinkData" xml:space="preserve">
+    <value>Looks like this data didn't load. Please try again.</value>
+  </data>
+  <data name="AddToFolderAddButton" xml:space="preserve">
+    <value>Add</value>
+  </data>
+  <data name="ImportConflictDialogTextFirstLine" xml:space="preserve">
+    <value>This presentation already exists in your presentation library.</value>
+  </data>
+  <data name="ShareDialogWaitForEnablingCoedit" xml:space="preserve">
+    <value>Please wait while your presentation is enabled for collaboration.</value>
+  </data>
+  <data name="NameYourLink" xml:space="preserve">
+    <value>Name your link</value>
+  </data>
+  <data name="DeleteLinkAndKeepDataButtonText" xml:space="preserve">
+    <value>Deactivate link</value>
+  </data>
+  <data name="SyncStatusOneRemaining" xml:space="preserve">
+    <value>1 presentation remaining</value>
+  </data>
+  <data name="PitchUpdaterNewAppVersionIsAvailableTitle" xml:space="preserve">
+    <value>A new version of {0} is available</value>
+  </data>
+  <data name="TrialExpiredTitleMUL" xml:space="preserve">
+    <value>Uh-oh. Looks like your team trial has ended.</value>
+  </data>
+  <data name="TermsOfUse" xml:space="preserve">
+    <value>Terms of Use</value>
+  </data>
+  <data name="PitchUpdaterInstallingUpdates" xml:space="preserve">
+    <value>Installing update...</value>
+  </data>
+  <data name="RemoveCurrentUserCollaboratorsInEditor" xml:space="preserve">
+    <value>If you continue you will no longer have access to this presentation, and it will be permanently removed from your dashboard.
+
+Any unsaved changes you’ve made will be lost, so please save your work before removing yourself.</value>
+  </data>
+  <data name="ExportPresentationTitle" xml:space="preserve">
+    <value>Download "{0}" for presentation</value>
+  </data>
+  <data name="ImportToPez" xml:space="preserve">
+    <value>Import...</value>
+  </data>
+  <data name="SaveChangesButton" xml:space="preserve">
+    <value>Save Changes</value>
+  </data>
+  <data name="CoeditEditorSidebarOfflineSaveACopyButtonSubtitle" xml:space="preserve">
+    <value>and continue working in the copy</value>
+  </data>
+  <data name="ShareDialogMyCollaboratorsHeader" xml:space="preserve">
+    <value>Only my collaborators and I can see this presentation</value>
+  </data>
+  <data name="TrialExpiredDialogMessageSUL" xml:space="preserve">
+    <value>But don't worry! You can continue editing and presenting offline with your Prezi app by buying Prezi Business now. 
+
+Otherwise, close the app and visit Prezi.com to work online with a Basic license.
+
+IMPORTANT: Please be sure to SAVE your work before closing the app!</value>
+  </data>
+  <data name="CoeditUploadInProgress" xml:space="preserve">
+    <value>Please wait while your changes are uploaded and synced with the online version of your presentation.</value>
+  </data>
+  <data name="GoogleSsoNotPreziUserTitle" xml:space="preserve">
+    <value>Looks like you don’t have a Prezi account yet.</value>
+  </data>
+  <data name="LicenseExpirationUpgrade" xml:space="preserve">
+    <value>Upgrade license</value>
+  </data>
+  <data name="CannotShowOfflineLinks" xml:space="preserve">
+    <value>Welcome to Prezi Analytics. Please go online to reconnect and get your list of shared links. Once you do this, your list will be available offline.</value>
+  </data>
+  <data name="UpdateAvailable" xml:space="preserve">
+    <value>Update now</value>
+  </data>
+  <data name="DeletePreziOnlineSecondLine" xml:space="preserve">
+    <value>You will not be able to undo this action.</value>
+  </data>
+  <data name="AllowInsertMediaWithConversionTextLine2" xml:space="preserve">
+    <value>Your files remain private and will be deleted from our servers.</value>
+  </data>
+  <data name="AllowInsertMediaWithConversionTextLine1" xml:space="preserve">
+    <value>To insert these file types we need to upload and convert them on our servers:
+ • PDF
+ • PPT, PPTX
+ • AVI, MOV, WMV, F4V, MPG, MPEG, 3GP
+</value>
+  </data>
+  <data name="CheckForUpdates" xml:space="preserve">
+    <value>Check for updates</value>
+  </data>
+  <data name="SyncingStatusText" xml:space="preserve">
+    <value>Syncing</value>
+  </data>
+  <data name="CoeditConflictSaveLocalChanges" xml:space="preserve">
+    <value>Save a separate copy of my desktop presentation</value>
+  </data>
+  <data name="CoeditEditorSidebarConflictKeepMyVersionButtonSubtitle" xml:space="preserve">
+    <value>and continue working in a copied presentation</value>
+  </data>
+  <data name="GoogleSsoEmailSentTitle" xml:space="preserve">
+    <value>We’ve sent you an email</value>
+  </data>
+  <data name="DownloadingPreziContent" xml:space="preserve">
+    <value>Downloading</value>
+  </data>
+  <data name="PreziCardWaitingForFirstDownload" xml:space="preserve">
+    <value>Waiting to download ...</value>
+  </data>
+  <data name="ExportToPez" xml:space="preserve">
+    <value>Export to presentation file</value>
+  </data>
+  <data name="KnowledgeBaseForPreziForWindows" xml:space="preserve">
+    <value>Knowledge base for {0} for Windows</value>
+  </data>
+  <data name="TermsOfUseDialogWhatsNew" xml:space="preserve">
+    <value>See what's new</value>
+  </data>
+  <data name="PresentDialogPreziLinkError" xml:space="preserve">
+    <value>Could not start remote presentation. Please try again!</value>
+  </data>
+  <data name="UsernameWatermark" xml:space="preserve">
+    <value>Enter username</value>
+  </data>
+  <data name="LicenseExpiredMULAdminMessageFirstLine" xml:space="preserve">
+    <value>But don't worry. You can continue accessing your content and features in Prezi Business by renewing now.</value>
+  </data>
+  <data name="CoreInAppMessagePreziCardSubtitle" xml:space="preserve">
+    <value>Try your search again in [a href='{0}']{1}[/a].</value>
+  </data>
+  <data name="AboutTitle" xml:space="preserve">
+    <value>About</value>
+  </data>
+  <data name="PitchCheckingForUpdatesFailed" xml:space="preserve">
+    <value>An error occurred while checking for app updates</value>
+  </data>
+  <data name="Password" xml:space="preserve">
+    <value>Password</value>
+  </data>
+  <data name="FailedToLoadVisible" xml:space="preserve">
+    <value>This presentation’s privacy settings aren’t loading. Please close and try again.</value>
+  </data>
+  <data name="PitchUpdaterDownloadingUpdatesFailed" xml:space="preserve">
+    <value>Failed to download updates</value>
+  </data>
+  <data name="EditPreziButton" xml:space="preserve">
+    <value>Edit</value>
+  </data>
+  <data name="CopyrightNotice" xml:space="preserve">
+    <value>Copyright © {0} Prezi. All rights reserved.</value>
+  </data>
+  <data name="TryAgainLoadAnalytics" xml:space="preserve">
+    <value>Try again</value>
+  </data>
+  <data name="CannotLoginWithTokenWhileLoggedInTitle" xml:space="preserve">
+    <value>Already logged in to an existing Prezi account</value>
+  </data>
+  <data name="PitchUpdaterUpdateIsReadyTitle" xml:space="preserve">
+    <value>{0} has been updated</value>
+  </data>
+  <data name="TemplateChooserFilterByColorLabel" xml:space="preserve">
+    <value>Filter by Color</value>
+  </data>
+  <data name="MediaWithConversionInsertOfflineMessage" xml:space="preserve">
+    <value>To insert this file we need to convert it online.</value>
+  </data>
+  <data name="LearnCenterForPrezi" xml:space="preserve">
+    <value>Learn center for {0}</value>
+  </data>
+  <data name="TodayAt" xml:space="preserve">
+    <value>today at {0}</value>
+  </data>
+  <data name="FailedToGenerateLink" xml:space="preserve">
+    <value>A link could not be generated. Please try again.</value>
+  </data>
+  <data name="NumberOfPrezisOne" xml:space="preserve">
+    <value>{0} presentation</value>
+  </data>
+  <data name="ShareDialogAnyoneDescription" xml:space="preserve">
+    <value>Discoverable on the Web</value>
+  </data>
+  <data name="ControlKeyText" xml:space="preserve">
+    <value>Ctrl</value>
+  </data>
+  <data name="DirectXRequiredCaption" xml:space="preserve">
+    <value>DirectX required</value>
+  </data>
+  <data name="SearchMenu" xml:space="preserve">
+    <value>Search</value>
+  </data>
+  <data name="SearchForText" xml:space="preserve">
+    <value>search for</value>
+  </data>
+  <data name="FailedToDownloadLinks" xml:space="preserve">
+    <value>Your links could not be loaded. Please close and reopen this window to try again.</value>
+  </data>
+  <data name="AllowButton" xml:space="preserve">
+    <value>Allow</value>
+  </data>
+  <data name="PitchUpdaterYouAreUpToDateDescription" xml:space="preserve">
+    <value>{0} {1} is the latest version available.</value>
+  </data>
+  <data name="DetailsViewCouldNotRemoveLink" xml:space="preserve">
+    <value>This link wasn't deactivated. Please try again.</value>
+  </data>
+  <data name="ShareDialogWithTheLinkDescription" xml:space="preserve">
+    <value>Anyone with the link can view this presentation</value>
+  </data>
+  <data name="SearchPrezi" xml:space="preserve">
+    <value>Search</value>
+  </data>
+  <data name="MigrationInProgress" xml:space="preserve">
+    <value>Migration in progress: {0}/{1}</value>
+  </data>
+  <data name="SystemRequirementsButton" xml:space="preserve">
+    <value>System requirements</value>
+  </data>
+  <data name="SkilledDescription" xml:space="preserve">
+    <value>Discover powerful new ways to express your ideas with our Skilled template series, for more experienced presenters and novices ready to stretch.</value>
+  </data>
+  <data name="LivePreziPaywallSubtitle" xml:space="preserve">
+    <value>Prezi Business includes Live Prezi so you can share your presentation in crisp HD with anyone in the world using a simple link.</value>
+  </data>
+  <data name="InAppMessagePreziCardTitle" xml:space="preserve">
+    <value>Didn’t find what you’re looking for?</value>
+  </data>
+  <data name="GreetingText" xml:space="preserve">
+    <value>Welcome {0}!</value>
+  </data>
+  <data name="RemoveCurrentUserCollaborators" xml:space="preserve">
+    <value>If you continue, you will no longer have access to this presentation, and it will be permanently removed from your dashboard.</value>
+  </data>
+  <data name="PreziCardResolveConflict" xml:space="preserve">
+    <value>Resolve conflict...</value>
+  </data>
+  <data name="PezExportAssetNotFoundInRepoErrorTitle" xml:space="preserve">
+    <value>Broken content</value>
+  </data>
+  <data name="LicenseMismatchOtherAppNeededDescription" xml:space="preserve">
+    <value>Your license type corresponds with {0}. Please download it to continue. We also recommend deleting this app.</value>
+  </data>
+  <data name="PezExportAssetNotFoundInRepoErrorMessage" xml:space="preserve">
+    <value>Looks like some of your content might be broken. You can export it as-is or try to fix it now.</value>
+  </data>
+  <data name="DeleteFolderTitle" xml:space="preserve">
+    <value>Delete “{0}” folder</value>
+  </data>
+  <data name="SingleUnsyncedPreziText" xml:space="preserve">
+    <value>{0} unsynced presentation</value>
+  </data>
+  <data name="PitchPreziCardUploadFailed" xml:space="preserve">
+    <value>Syncing failed</value>
+  </data>
+  <data name="PitchUpdaterApplyingReleasesFailedDescription" xml:space="preserve">
+    <value>Please try again.</value>
+  </data>
+  <data name="LicenseExpirationMultiLine" xml:space="preserve">
+    <value>Please upgrade this account to a Pro or Edu Pro license to continue.
+
+If you think you’ve received this message by mistake, please try again or [a href='https://prezi.com/support/?utm_source=prezi_desktop&amp;utm_medium=invalid_license_dialog&amp;utm_campaign=contact_support']contact support[/a].</value>
+  </data>
+  <data name="PresenterViewTitle" xml:space="preserve">
+    <value>Presenter view</value>
+  </data>
+  <data name="LicenseMismatchGetTheRightApp" xml:space="preserve">
+    <value>Get the app</value>
+  </data>
+  <data name="LicenseTypeFormat" xml:space="preserve">
+    <value>{0} License</value>
+  </data>
+  <data name="CoeditEditorSidebarOfflineMessage1" xml:space="preserve">
+    <value>A collaborator is still editing this presentation online. If both of you make changes, it can result in a version conflict.</value>
+  </data>
+  <data name="CoeditEditorSidebarOfflineMessage2" xml:space="preserve">
+    <value>Before you continue working, we recommend that you save a copy of your presentation and continue editing that version to avoid any conflict.</value>
+  </data>
+  <data name="ExportPresentationExportAnyway" xml:space="preserve">
+    <value>Export anyway</value>
+  </data>
+  <data name="TrialExpireSoonOneDayMUL" xml:space="preserve">
+    <value>Your Prezi team trial ends in 1 day.</value>
+  </data>
+  <data name="ConflictDialogTextSecondLine" xml:space="preserve">
+    <value>The local and the online version of “{0}” have both changed. Please select which version to keep:</value>
+  </data>
+  <data name="LicenseExpiredSULMessageFirstLine" xml:space="preserve">
+    <value>But don't worry! You can continue editing and presenting offline with the Prezi app by renewing now.</value>
+  </data>
+  <data name="ProLicenseExpireSoonOneDayMUL" xml:space="preserve">
+    <value>Your Prezi team license expires in 1 day.</value>
+  </data>
+  <data name="ShareDialogMailSent" xml:space="preserve">
+    <value>An e-mail was sent. Waiting for person to sign up.</value>
+  </data>
+  <data name="SyncedPrezisView" xml:space="preserve">
+    <value>Synced presentations</value>
+  </data>
+  <data name="AccountEmail" xml:space="preserve">
+    <value>Account email:</value>
+  </data>
+  <data name="UpdateAndInstall" xml:space="preserve">
+    <value>Update and install</value>
+  </data>
+  <data name="ExportToPortable" xml:space="preserve">
+    <value>Download for presentation</value>
+  </data>
+  <data name="ExportingPreziFailedDialogDefaultButton" xml:space="preserve">
+    <value>Ok</value>
+  </data>
+  <data name="CoeditOpenPreziWithoutCollaboration" xml:space="preserve">
+    <value>Continue editing your presentation without collaboration</value>
+  </data>
+  <data name="PreziDownloadFailDialogText" xml:space="preserve">
+    <value>There was an error while downloading the newest version of this presentation. Please try downloading again, or contact support.</value>
+  </data>
+  <data name="OnlyYouHaveAccess" xml:space="preserve">
+    <value>Only you have access to this presentation at the moment</value>
+  </data>
+  <data name="PitchCheckingForUpdates" xml:space="preserve">
+    <value>Checking for updates...</value>
+  </data>
+  <data name="ExportingPreziFailedDialogExportAnywayButton" xml:space="preserve">
+    <value>Export as-is</value>
+  </data>
+  <data name="FirstOpened" xml:space="preserve">
+    <value>First Opened</value>
+  </data>
+  <data name="PreziHasUnknownElementTitle" xml:space="preserve">
+    <value>Update required</value>
+  </data>
+  <data name="TemplateDialogTitleOnSuccess" xml:space="preserve">
+    <value>Templates updated successfully</value>
+  </data>
+  <data name="ExportPresentationMac" xml:space="preserve">
+    <value>Present using Mac</value>
+  </data>
+  <data name="CheckBrowserText" xml:space="preserve">
+    <value>You’ll be redirected to the Prezi desktop app once you sign in with your Google Account.</value>
+  </data>
+  <data name="RestartApplication" xml:space="preserve">
+    <value>Restart application</value>
+  </data>
+  <data name="TemplateChooserAllTemplatesFilter" xml:space="preserve">
+    <value>All templates</value>
+  </data>
+  <data name="PrivacySettingsPrivateTitle" xml:space="preserve">
+    <value>Collaborators &amp; clients</value>
+  </data>
+  <data name="AnalyticsAdvertisementInLink" xml:space="preserve">
+    <value>Track who views your presentation and which parts really pique their interest with Prezi Premium.</value>
+  </data>
+  <data name="DetailViewOnboardingCreateAdditionalLink" xml:space="preserve">
+    <value>Create a unique link each time you share your presentation and see how it performs.</value>
+  </data>
+  <data name="PitchSaveTakesLongerTimeTitle" xml:space="preserve">
+    <value>This is taking longer than usual</value>
+  </data>
+  <data name="AddPreziToFolder" xml:space="preserve">
+    <value>Add to folder</value>
+  </data>
+  <data name="ConflictNewerLabel" xml:space="preserve">
+    <value>latest version</value>
+  </data>
+  <data name="MainText" xml:space="preserve">
+    <value>A new version of {0} is available</value>
+  </data>
+  <data name="UpdateButton" xml:space="preserve">
+    <value>Update</value>
+  </data>
+  <data name="CoeditEditorSidebarConflictKeepMyVersionButtonTitle" xml:space="preserve">
+    <value>Keep my changes</value>
+  </data>
+  <data name="AddCommentButton" xml:space="preserve">
+    <value>Add comment</value>
+  </data>
+  <data name="TrackThisLink" xml:space="preserve">
+    <value>Track this link on Prezi Analytics</value>
+  </data>
+  <data name="ConflictResolutionKeepBothOption" xml:space="preserve">
+    <value>Keep both</value>
+  </data>
+  <data name="CheckBrowserTitle" xml:space="preserve">
+    <value>Please check your browser</value>
+  </data>
+  <data name="DeletePreziOfflineFirstLine" xml:space="preserve">
+    <value>Are you sure you want to delete this presentation?</value>
+  </data>
+  <data name="PreziDetailsCollaboratorToolbarLoading" xml:space="preserve">
+    <value>Loading collaborators...</value>
+  </data>
+  <data name="HoursViewTime" xml:space="preserve">
+    <value>{0} h</value>
+  </data>
+  <data name="CannotCreateNewLinkOfflineEmptyList" xml:space="preserve">
+    <value>Looks like you’re offline. Please reconnect to create a new link and open it in the app on this device. Once you open do, the data will be available offline.</value>
+  </data>
+  <data name="NoviceDescription" xml:space="preserve">
+    <value>New to Prezi Next? These entry-level Novice templates are a great place to start and hone your chops before moving on to our Skilled selection.</value>
+  </data>
+  <data name="DownloadingUpdateUpdateProcessState" xml:space="preserve">
+    <value>Downloading update...</value>
+  </data>
+  <data name="MinutesAndSecondsViewTime" xml:space="preserve">
+    <value>{0} m {1} s</value>
+  </data>
+  <data name="OnBoardingBubbleWelcome" xml:space="preserve">
+    <value>Welcome to {0}</value>
+  </data>
+  <data name="ConflictResolutionKeepOnlineVersion" xml:space="preserve">
+    <value>Keep online version</value>
+  </data>
+  <data name="PreziAppNameWithVersionFormat" xml:space="preserve">
+    <value>{0} for Windows {1}</value>
+  </data>
+  <data name="TermsOfUseDialogTitle" xml:space="preserve">
+    <value>Terms of Use</value>
+  </data>
+  <data name="ValidUntil" xml:space="preserve">
+    <value>Valid until:</value>
+  </data>
+  <data name="ExportingSucceeded" xml:space="preserve">
+    <value>Exported</value>
+  </data>
+  <data name="TemplateDialogDescriptionOnSuccess" xml:space="preserve">
+    <value>Your templates are now up-to-date.</value>
+  </data>
+  <data name="Download" xml:space="preserve">
+    <value>Download</value>
+  </data>
+  <data name="PreziCardDownloadSucceeded" xml:space="preserve">
+    <value>Downloaded</value>
+  </data>
+  <data name="FailedUpdateProcessState" xml:space="preserve">
+    <value>Update check failed. Please try again later.</value>
+  </data>
+  <data name="ConfirmRevokeLinkWithAnalytics" xml:space="preserve">
+    <value>This link will be permanently deactivated and the people you've shared it with won't have access to the presentation anymore. You can also choose to remove its tracking data.</value>
+  </data>
+  <data name="No" xml:space="preserve">
+    <value>No</value>
+  </data>
+  <data name="Or" xml:space="preserve">
+    <value>or</value>
+  </data>
+  <data name="OK" xml:space="preserve">
+    <value>Ok</value>
+  </data>
+  <data name="ActivateTeamButtonText" xml:space="preserve">
+    <value>Activate team license</value>
+  </data>
+  <data name="ConflictDesktopVersion" xml:space="preserve">
+    <value>Desktop version</value>
+  </data>
+  <data name="ConfirmCancelPdfExport" xml:space="preserve">
+    <value>Are you sure you want to cancel?</value>
+  </data>
+  <data name="PitchUpdaterContinueUpdate" xml:space="preserve">
+    <value>Continue update</value>
+  </data>
+  <data name="StartLivePreziMenuItem" xml:space="preserve">
+    <value>Present with Live Prezi</value>
+  </data>
+  <data name="PitchUpdaterShowReleaseNotesOnStartupDescription" xml:space="preserve">
+    <value>You now have the latest version. Check out what's new:</value>
+  </data>
+  <data name="ExportPresentationSaveButton" xml:space="preserve">
+    <value>Export</value>
+  </data>
+  <data name="SavingPreziBeforeClosingDescription" xml:space="preserve">
+    <value>This may take a moment...</value>
+  </data>
+  <data name="CoeditOfflineNotification" xml:space="preserve">
+    <value>You’re currently working offline on a shared presentation.</value>
+  </data>
+  <data name="GroupAdminContact" xml:space="preserve">
+    <value>If you have any questions, you can contact us at:</value>
+  </data>
+  <data name="JoinPresentationButton" xml:space="preserve">
+    <value>Join</value>
+  </data>
+  <data name="LicenseType" xml:space="preserve">
+    <value>License type:</value>
+  </data>
+  <data name="ConflictResolutionKeepOfflineVersion" xml:space="preserve">
+    <value>Keep offline version</value>
+  </data>
+  <data name="TemplateDialogTitleOnNewTemplatesAvailable" xml:space="preserve">
+    <value>Great news! We have new templates for you.</value>
+  </data>
+  <data name="ForgotYourPassword" xml:space="preserve">
+    <value>Forgot your password?</value>
+  </data>
+  <data name="CheckForUpdatesMenuItem" xml:space="preserve">
+    <value>Check for updates...</value>
+  </data>
+  <data name="CancelButton" xml:space="preserve">
+    <value>Cancel</value>
+  </data>
+  <data name="PrivacyAndShare" xml:space="preserve">
+    <value>Privacy &amp; Share</value>
+  </data>
+  <data name="DeletePreziOffline" xml:space="preserve">
+    <value>Are you sure you want to delete this presentation?
+It will be deleted from prezi.com and all other devices when you go online.</value>
+  </data>
+  <data name="FeedbackOnlineTitle" xml:space="preserve">
+    <value>Please send us your feedback.</value>
+  </data>
+  <data name="GoogleSsoContactSupport" xml:space="preserve">
+    <value>Contact support</value>
+  </data>
+  <data name="FeedbackOfflineDescription" xml:space="preserve">
+    <value>We'd love to hear what you think, but please connect to the Internet first.</value>
+  </data>
+  <data name="LocalPrezis" xml:space="preserve">
+    <value>Local presentations</value>
+  </data>
+  <data name="TemplateDialogDescriptionOnNewTemplatesAvailable" xml:space="preserve">
+    <value>Want to download them now before starting your new presentation?</value>
+  </data>
+  <data name="DeletePreziLocalFirstLine" xml:space="preserve">
+    <value>Are you sure you want to delete this presentation?</value>
+  </data>
+  <data name="PreziCardEditedLabel" xml:space="preserve">
+    <value>Updated {0}</value>
+  </data>
+  <data name="PreziCardDownloadFailed" xml:space="preserve">
+    <value>Download failed</value>
+  </data>
+  <data name="PreziCardConflictTextWithEditorOpened" xml:space="preserve">
+    <value>Close editor to resolve conflict</value>
+  </data>
+  <data name="PitchUpdaterShowReleaseNotesDescription" xml:space="preserve">
+    <value>The latest version is {0} {1}. You currently have {2}. Do you want to update?</value>
+  </data>
+  <data name="LicenseExpiredMULMessageFirstLine" xml:space="preserve">
+    <value>For continued access to your Prezi Business content and features, you need a valid license.</value>
+  </data>
+  <data name="JustNow" xml:space="preserve">
+    <value>just now</value>
+  </data>
+  <data name="Yes" xml:space="preserve">
+    <value>Yes</value>
+  </data>
+  <data name="PrivacySettingsPublicDescription" xml:space="preserve">
+    <value>Anyone can find this presentation using a search engine</value>
+  </data>
+  <data name="DeleteLinkButtonText" xml:space="preserve">
+    <value>Deactivate link</value>
+  </data>
+  <data name="Email" xml:space="preserve">
+    <value>Email</value>
+  </data>
+  <data name="AnalyticsAdvertisementUpgrade" xml:space="preserve">
+    <value>Upgrade</value>
+  </data>
+  <data name="Close" xml:space="preserve">
+    <value>Close</value>
+  </data>
+  <data name="RemoveCurrentUserCollaboratorsInEditorFirstLine" xml:space="preserve">
+    <value>If you continue you will no longer have access to this presentation, and it will be permanently removed from your dashboard.</value>
+  </data>
+  <data name="Owner" xml:space="preserve">
+    <value>Owner</value>
+  </data>
+  <data name="Login" xml:space="preserve">
+    <value>Log in</value>
+  </data>
+  <data name="TermsOfUseDialogDescription" xml:space="preserve">
+    <value>We've changed our Terms of Use.</value>
+  </data>
+  <data name="NoNewTemplatesAreAvailable" xml:space="preserve">
+    <value>No new templates are available.</value>
+  </data>
+  <data name="Retry" xml:space="preserve">
+    <value>Retry</value>
+  </data>
+  <data name="Share" xml:space="preserve">
+    <value>Share</value>
+  </data>
+  <data name="LivePreziButton" xml:space="preserve">
+    <value>Live Prezi</value>
+  </data>
+  <data name="Pages" xml:space="preserve">
+    <value>pages</value>
+  </data>
+  <data name="DeletePreziLocalSecondLine" xml:space="preserve">
+    <value>It will be deleted from your computer.</value>
+  </data>
+  <data name="AnalyticsOnAir" xml:space="preserve">
+    <value>On Air</value>
+  </data>
+  <data name="CollaboratorsTitle" xml:space="preserve">
+    <value>Collaborators</value>
+  </data>
+  <data name="ProLicenseExpireSoonLessThanOneDay" xml:space="preserve">
+    <value>Less than 1 day until your Prezi {0} license expires.</value>
+  </data>
+  <data name="LicenseExpiredMULMessageSecondLine" xml:space="preserve">
+    <value>To have your team license renewed, please contact your team administrator at {0}.</value>
+  </data>
+  <data name="ForceLoggedOutMessage" xml:space="preserve">
+    <value>You’ve been logged out of your last session. Please log in to continue.</value>
+  </data>
+  <data name="TrialExpiredDialogMessageMULNoAdmin" xml:space="preserve">
+    <value>But don't worry. You can continue to access your content and features in Prezi Business with a valid team license.
+
+To have your team license renewed, please contact your team administrator at: {0}.
+
+IMPORTANT: Please be sure to SAVE your work before closing the Prezi app.</value>
+  </data>
+  <data name="DetailViewOnboardingTurnOnTracking" xml:space="preserve">
+    <value>You can track the links you share and see how a presentation performs with Prezi Analytics.</value>
+  </data>
+  <data name="Offline" xml:space="preserve">
+    <value>Offline</value>
+  </data>
+  <data name="PitchCheckingForUpdatesFailedDescription" xml:space="preserve">
+    <value>Please check your Internet connection.</value>
+  </data>
+  <data name="WorkShopAndTrainingMenuItem" xml:space="preserve">
+    <value>Workshop &amp; training</value>
+  </data>
+  <data name="Analytics" xml:space="preserve">
+    <value>View analytics</value>
+  </data>
+  <data name="PitchExportDialogTitle" xml:space="preserve">
+    <value>This presentation cannot be exported</value>
+  </data>
+  <data name="Username" xml:space="preserve">
+    <value>Username</value>
+  </data>
+  <data name="ShareDialogAdd" xml:space="preserve">
+    <value>Add</value>
+  </data>
+  <data name="ToolsMenu" xml:space="preserve">
+    <value>Tools</value>
+  </data>
+  <data name="PitchPreziCardSyncToolTipUpload" xml:space="preserve">
+    <value>Synchronizing changes</value>
+  </data>
+  <data name="ShareDialogNetworkError" xml:space="preserve">
+    <value>Network error occured</value>
+  </data>
+  <data name="NewPreziMenuItem" xml:space="preserve">
+    <value>New presentation</value>
+  </data>
+  <data name="ExportPresentationWarning" xml:space="preserve">
+    <value>There’s a possible compatibility issue with this presentation. Exporting it might cause some elements to go missing. If this issue persists, please [a href='https://prezi.com/business/support/']contact support[/a].</value>
+  </data>
+  <data name="LicenseExpiredSULMessageSecondLine" xml:space="preserve">
+    <value>Please upgrade to use it and enjoy full editing and presenting experience also when you are offline.</value>
+  </data>
+  <data name="PbizFileFilter" xml:space="preserve">
+    <value>Presentation files (*.pbizw)|*.pbizw</value>
+  </data>
+  <data name="OfflineStatusText" xml:space="preserve">
+    <value>You are offline. Please reconnect to continue.</value>
+  </data>
+  <data name="PreziDetailsAnalyticsDetails" xml:space="preserve">
+    <value>Get real-time data on your presentation to know who’s viewing, when to follow up, and how to optimize content based on their interests.</value>
+  </data>
+  <data name="PptImportPaywallTitle" xml:space="preserve">
+    <value>You will need Prezi Business to import your PowerPoint slides</value>
+  </data>
+  <data name="LoginWithGoogle" xml:space="preserve">
+    <value>Sign in with Google</value>
+  </data>
+  <data name="DiscoverablePreziTooltip" xml:space="preserve">
+    <value>Anyone can find this presentation.</value>
+  </data>
+  <data name="DownloadingUpdatesFailed" xml:space="preserve">
+    <value>Failed to download updates</value>
+  </data>
+  <data name="ProLicenseExpireSoonFewDaysMUL" xml:space="preserve">
+    <value>Your Prezi team license expires in {0} days.</value>
+  </data>
+  <data name="ExportingPreziFailedDialogEditButton" xml:space="preserve">
+    <value>Let’s fix it</value>
+  </data>
+  <data name="CreateALinkToSharePrezi" xml:space="preserve">
+    <value>Create a new link to share it.</value>
+  </data>
+  <data name="PaywallStartPbTeam" xml:space="preserve">
+    <value>Start a Prezi Business team now and get:</value>
+  </data>
+  <data name="LicenseExpiredMULTitle" xml:space="preserve">
+    <value>Uh-oh. Looks like your Prezi Business team license has expired.</value>
+  </data>
+  <data name="ShareDialogAnyoneHeader" xml:space="preserve">
+    <value>Anyone can view this presentation</value>
+  </data>
+  <data name="AllowInsertMediaWithConversionText" xml:space="preserve">
+    <value>To insert these file types we need to upload and convert them on our servers:
+ • PDF
+ • PPT, PPTX
+ • AVI, MOV, WMV, F4V, MPG, MPEG, 3GP
+Your files remain private and will be deleted from our servers.</value>
+  </data>
+  <data name="PitchUpdaterRelaunchItNowButton" xml:space="preserve">
+    <value>Yes, relaunch it</value>
+  </data>
+  <data name="ShareViewLinkToolButton" xml:space="preserve">
+    <value>Share view link</value>
+  </data>
+  <data name="ShareDialogAddCollaboratorsToShare" xml:space="preserve">
+    <value>Add collaborators to share this presentation</value>
+  </data>
+  <data name="TrialExpireSoonFewDays" xml:space="preserve">
+    <value>Your trial ends in {0} days.</value>
+  </data>
+  <data name="NewFolderName" xml:space="preserve">
+    <value>Untitled folder</value>
+  </data>
+  <data name="ExitMenuItem" xml:space="preserve">
+    <value>Exit</value>
+  </data>
+  <data name="CreateLinkButton" xml:space="preserve">
+    <value>Create Link</value>
+  </data>
+  <data name="LinkHasNoCachedAnalyticsData" xml:space="preserve">
+    <value>Looks like it’s your first time getting analytics for this link using this device. Please go online so the data can be downloaded. Once you do, it’ll be available offline.</value>
+  </data>
+  <data name="PitchExportDialogDescription" xml:space="preserve">
+    <value>Please update the app. If you have the latest version, contact [a href='https://prezi.com/support/?utm_source=prezi_desktop&amp;amp;utm_medium=portable_export_dialog&amp;amp;utm_campaign=contact_support']Prezi Support[/a].</value>
+  </data>
+  <data name="PitchUpdaterStopUpdateButton" xml:space="preserve">
+    <value>Quit anyway</value>
+  </data>
+  <data name="PreziCardNotDownloadedText" xml:space="preserve">
+    <value>This presentation is not downloaded</value>
+  </data>
+  <data name="EditRightsNeededForPrezi" xml:space="preserve">
+    <value>You need rights to edit.</value>
+  </data>
+  <data name="PitchEditorSessionReloadFailedTitle" xml:space="preserve">
+    <value>Unable to sync</value>
+  </data>
+  <data name="TemplateDialogTemplatesAvailableGetThemNow" xml:space="preserve">
+    <value>Get them now</value>
+  </data>
+  <data name="EnterLinkNameLabel" xml:space="preserve">
+    <value>Enter the company or viewer’s name for your own records.</value>
+  </data>
+  <data name="CoeditEditorSidebarOfflineSaveACopyButtonTitle" xml:space="preserve">
+    <value>Save a copy</value>
+  </data>
+  <data name="ShareDialogStartNow" xml:space="preserve">
+    <value>Start now</value>
+  </data>
+  <data name="CannotOpenPezFile" xml:space="preserve">
+    <value>Can’t open this file</value>
+  </data>
+  <data name="HoursAgoPlural" xml:space="preserve">
+    <value>{0} hours ago</value>
+  </data>
+  <data name="PreziDashboardMenuText" xml:space="preserve">
+    <value>Dashboard</value>
+  </data>
+  <data name="FeatureComingSoon" xml:space="preserve">
+    <value>Coming soon</value>
+  </data>
+  <data name="PitchSaveFailedBeforeReloadDescription" xml:space="preserve">
+    <value>This presentation could not be saved. Please make sure your hard drive is accessible and you have enough space.</value>
+  </data>
+  <data name="LicenseExpirationFirstLine" xml:space="preserve">
+    <value>Please upgrade this account to a Pro or Edu Pro license to continue.</value>
+  </data>
+  <data name="ExportPresentationWindows" xml:space="preserve">
+    <value>Present using Windows</value>
+  </data>
+  <data name="PreziHasUnknownElementDescription" xml:space="preserve">
+    <value>The presentation you're trying to open contains new features which can only be accessed with the latest version of the {0} desktop app. Please update now to continue.</value>
+  </data>
+  <data name="LoadingLinkList" xml:space="preserve">
+    <value>Loading...</value>
+  </data>
+  <data name="ShareDialogReusable" xml:space="preserve">
+    <value>Allow public reuse and help spread ideas</value>
+  </data>
+  <data name="ShowDownloadFailedOlderVersionAvailableDialogFirstLine" xml:space="preserve">
+    <value>You are about to open an older version of "{0}"</value>
+  </data>
+  <data name="PitchInAppMessagePreziCardSubtitle" xml:space="preserve">
+    <value>Try your search again in [a href='{0}']{1}[/a].</value>
+  </data>
+  <data name="TemplateDialogDescriptionOnFailure" xml:space="preserve">
+    <value>Check your connection</value>
+  </data>
+  <data name="CoeditEditorSidebarConflictDiscardButtonTitle" xml:space="preserve">
+    <value>Discard my changes</value>
+  </data>
+  <data name="ConfirmCancelPdfExportTitle" xml:space="preserve">
+    <value>Cancel Export to PDF</value>
+  </data>
+  <data name="PreziDetailsAnalyticsLabel" xml:space="preserve">
+    <value>Fine-tune your strategy with Prezi Analytics</value>
+  </data>
+  <data name="SearchResult" xml:space="preserve">
+    <value>Results</value>
+  </data>
+  <data name="LicenseExpiredUpgradeStateTitle" xml:space="preserve">
+    <value>Please finish renewing and let's get you back to business.</value>
+  </data>
+  <data name="SupportMenuItem" xml:space="preserve">
+    <value>Support</value>
+  </data>
+  <data name="ShowDownloadFailedOlderVersionAvailableDialogSecondLine" xml:space="preserve">
+    <value>You can get the newest version when you go online next time.</value>
+  </data>
+  <data name="CoeditConflictNotification" xml:space="preserve">
+    <value>Changes to your presentation have been found and will be downloaded.</value>
+  </data>
+  <data name="TryAgain" xml:space="preserve">
+    <value>Try again</value>
+  </data>
+  <data name="CoeditConflictDownloadAndOpenOnlineVersion" xml:space="preserve">
+    <value>Edit the online version</value>
+  </data>
+  <data name="ShareDialogWithTheLinkHeader" xml:space="preserve">
+    <value>My collaborators and anyone with the link can view this presentation</value>
+  </data>
+  <data name="SidebarFeedback" xml:space="preserve">
+    <value>Feedback</value>
+  </data>
+  <data name="ShareDialogViewOnly" xml:space="preserve">
+    <value>View only</value>
+  </data>
+  <data name="LicenseExpiredOnlineStateMessage" xml:space="preserve">
+    <value>IMPORTANT: Before closing the Prezi desktop app, please make sure to save your work.</value>
+  </data>
+  <data name="ApplyingReleasesFailed" xml:space="preserve">
+    <value>Failed to install updates</value>
+  </data>
+  <data name="TemplateDialogTemplatesOnProgressIWillGetThemLater" xml:space="preserve">
+    <value>I'll get them later</value>
+  </data>
+  <data name="AnalyticsPaywallFeatureList" xml:space="preserve">
+    <value>• Everything you get with Prezi Plus
+
+• Phone support
+
+• Advanced online training
+
+• Prezi Analytics</value>
+  </data>
+  <data name="PezExportChooseAnotherErrorTitle" xml:space="preserve">
+    <value>Choose another location to export presentation</value>
+  </data>
+  <data name="MoveToLocal" xml:space="preserve">
+    <value>Move to Local presentations</value>
+  </data>
+  <data name="SyncedPrezis" xml:space="preserve">
+    <value>Synced presentations</value>
+  </data>
+  <data name="CheckingForUpdateUpdateProcessState" xml:space="preserve">
+    <value>Checking for update...</value>
+  </data>
+  <data name="DirectXRequiredMessage" xml:space="preserve">
+    <value>A dedicated or integrated graphics card that supports DirectX is required to view this presentation.</value>
+  </data>
+  <data name="HoursAndMinutesViewTime" xml:space="preserve">
+    <value>{0} h {1} m</value>
+  </data>
+  <data name="RemindMeLater" xml:space="preserve">
+    <value>Remind me later</value>
+  </data>
+  <data name="ConflictResolutionKeepSelected" xml:space="preserve">
+    <value>Keep selected</value>
+  </data>
+  <data name="PitchUpdaterApplyingReleasesFailed" xml:space="preserve">
+    <value>The update could not be installed</value>
+  </data>
+  <data name="RequestRestartForLanguageChange" xml:space="preserve">
+    <value>You need to close and restart the application to change the language.</value>
+  </data>
+  <data name="SyncPrezisMenuItem" xml:space="preserve">
+    <value>Sync presentations</value>
+  </data>
+  <data name="LicenseMismatchOtherAppNeededTitle" xml:space="preserve">
+    <value>Oops. You need a different Prezi app.</value>
+  </data>
+  <data name="UserContact" xml:space="preserve">
+    <value>In order to activate your account please contact your team administrator at:</value>
+  </data>
+  <data name="ProLicenseExpireSoonFewDays" xml:space="preserve">
+    <value>Your Prezi {1} license expires in {0} days.</value>
+  </data>
+  <data name="LicenseExpiredSULContinueOnlineForFreeButtonText" xml:space="preserve">
+    <value>Continue working online</value>
+  </data>
+  <data name="EditAnyway" xml:space="preserve">
+    <value>Edit anyway</value>
+  </data>
+  <data name="HourAgoSingular" xml:space="preserve">
+    <value>{0} hour ago</value>
+  </data>
+  <data name="FailedToModifyVisible" xml:space="preserve">
+    <value>Privacy setting could not be modified. Please try again​.</value>
+  </data>
+  <data name="ShareDialogCollaborators" xml:space="preserve">
+    <value>Collaborators</value>
+  </data>
+  <data name="DetailViewPromotionBubbleTitle" xml:space="preserve">
+    <value>There's more!</value>
+  </data>
+  <data name="LinkSetupTitle" xml:space="preserve">
+    <value>Setup</value>
+  </data>
+  <data name="DeleteFolderDeleteButton" xml:space="preserve">
+    <value>Delete folder</value>
+  </data>
+  <data name="ShareDialogTypeName" xml:space="preserve">
+    <value>Type email or name</value>
+  </data>
+  <data name="AboutMenuItem" xml:space="preserve">
+    <value>About</value>
+  </data>
+  <data name="CannotCreateNewLinkOffline" xml:space="preserve">
+    <value>Looks like you're offline. Please reconnect to create a new link.</value>
+  </data>
+  <data name="PreziNotSharedViaLink" xml:space="preserve">
+    <value>This presentation has not been shared via link yet.</value>
+  </data>
+  <data name="LinkDetailsTitle" xml:space="preserve">
+    <value>Link Setup</value>
+  </data>
+  <data name="TryingToOpenOrImportPezFileWithoutHavingLoggedInViewModelDescriptionLine1" xml:space="preserve">
+    <value>You need to log in first to import this presentation.</value>
+  </data>
+  <data name="MasterDescription" xml:space="preserve">
+    <value>Realize your full presenting power with these Master-level templates for advanced Prezi Next users and those familiar with the art of visual storytelling.</value>
+  </data>
+  <data name="ViewerPreziHasNewVersionSecondLine" xml:space="preserve">
+    <value />
+  </data>
+  <data name="ExportButtonText" xml:space="preserve">
+    <value>Start exporting</value>
+  </data>
+  <data name="DiscoverablePreziTooltipNotOwned" xml:space="preserve">
+    <value>Anyone can find this presentation - Only the owner of the presentation can change the privacy.</value>
+  </data>
+  <data name="LanguagesTitle" xml:space="preserve">
+    <value>Languages</value>
+  </data>
+  <data name="TrialExpiredTitle" xml:space="preserve">
+    <value>Uh-oh. Looks like your trial has ended.</value>
+  </data>
+  <data name="ViewerPreziHasNewVersionFirstLine" xml:space="preserve">
+    <value>It seems that there is a newer version of this presentation on prezi.com not yet downloaded.</value>
+  </data>
+  <data name="LicenseExpiredUpgradeStateButtonText" xml:space="preserve">
+    <value>Check my license now</value>
+  </data>
+  <data name="EditMenu" xml:space="preserve">
+    <value>Edit</value>
+  </data>
+  <data name="FiltersHeader" xml:space="preserve">
+    <value>Filters</value>
+  </data>
+  <data name="CoreInAppMessageRibbonButtonText" xml:space="preserve">
+    <value>Try {0}</value>
+  </data>
+  <data name="BreakdownByUser" xml:space="preserve">
+    <value>Breakdown by user</value>
+  </data>
+  <data name="FileMenu" xml:space="preserve">
+    <value>File</value>
+  </data>
+  <data name="AddCollaboratorTitle" xml:space="preserve">
+    <value>Add Collaborator</value>
+  </data>
+  <data name="ShortcutTextWithControlKey" xml:space="preserve">
+    <value>Ctrl+{0}</value>
+  </data>
+  <data name="PitchDownloadingUpdatesDescription" xml:space="preserve">
+    <value>{0} MB of {1} MB</value>
+  </data>
+  <data name="LastOpened" xml:space="preserve">
+    <value>Last Opened</value>
+  </data>
+  <data name="CopyLink" xml:space="preserve">
+    <value>Copy link</value>
+  </data>
+  <data name="ExportButtonTextExportingPage" xml:space="preserve">
+    <value>Exporting Page... {0}/{1}</value>
+  </data>
+  <data name="PitchConflictDialogDiscardChanges" xml:space="preserve">
+    <value>Discard my changes</value>
+  </data>
+  <data name="NumberOfViews" xml:space="preserve">
+    <value>Number of views</value>
+  </data>
+  <data name="LicenseExpiredSULUpgradeButtonText" xml:space="preserve">
+    <value>Renew</value>
+  </data>
+  <data name="FailedToSaveLinks" xml:space="preserve">
+    <value>Your changes could not be applied. Please try again.</value>
+  </data>
+  <data name="CoeditConflictDiscardLocalChanges" xml:space="preserve">
+    <value>Discard the changes I've made to my desktop presentation</value>
+  </data>
+  <data name="ImportingInProgress" xml:space="preserve">
+    <value>Importing ...</value>
+  </data>
+  <data name="ShowJoinRemotePresentation" xml:space="preserve">
+    <value>Join remote presentation</value>
+  </data>
+  <data name="CoreLicenseRequired" xml:space="preserve">
+    <value>A Public, Enjoy, EduEnjoy, Pro, or EduPro license is needed to collaborate on this presentation.</value>
+  </data>
+  <data name="PresentDialogStartRemotePresentation" xml:space="preserve">
+    <value>Start remote presentation</value>
+  </data>
+  <data name="RetryButton" xml:space="preserve">
+    <value>Retry</value>
+  </data>
+  <data name="CoeditLocalChangesDiscardedNotification" xml:space="preserve">
+    <value>Your desktop presentation has been discarded. You are now editing the latest online version.</value>
+  </data>
+  <data name="ShareInvitedUserDoesntHaveLicenseForRole" xml:space="preserve">
+    <value>Your request can’t be completed. This user doesn’t have the license needed.</value>
+  </data>
+  <data name="CouldNotLoadAnalytics" xml:space="preserve">
+    <value>Your list of shared links didn't load. Please check your connection and try again.</value>
+  </data>
+  <data name="CoreInAppMessageAtNoSearchResult" xml:space="preserve">
+    <value>Try your search again in [a href='{0}']{1}[/a].</value>
+  </data>
+  <data name="DeleteBothButtonText" xml:space="preserve">
+    <value>Deactivate link and delete data</value>
+  </data>
+  <data name="ProLicenseExpireSoonLessThanOneDayMUL" xml:space="preserve">
+    <value>Less than 1 day until your Prezi team license expires.</value>
+  </data>
+  <data name="FailedToAddCollaborator" xml:space="preserve">
+    <value>An error occurred while adding {0} as a collaborator. Please try again, or if the problem persists, contact our Support Team.</value>
+  </data>
+  <data name="ConflictResolutionDialogQuestion" xml:space="preserve">
+    <value>The desktop and the online version of “{0}” have both changed. Please select which version to keep :</value>
+  </data>
+  <data name="YesterdayAt" xml:space="preserve">
+    <value>yesterday at {0}</value>
+  </data>
+  <data name="FacebookUserAssociationErrorErrorMessage" xml:space="preserve">
+    <value>Looks like you're already registered on Prezi.com.
+Just connect your accounts, and you're ready to go.</value>
+  </data>
+  <data name="PrivacySettingMenuItem" xml:space="preserve">
+    <value>Set privacy</value>
+  </data>
+  <data name="TryingToOpenOrImportPezFileWithoutHavingLoggedInViewModelTitle" xml:space="preserve">
+    <value>Oops, you're not logged in</value>
+  </data>
+  <data name="PitchKnowledgeBaseFor" xml:space="preserve">
+    <value>Knowledge base</value>
+  </data>
+  <data name="ShareDialogRemoveFromPrezi" xml:space="preserve">
+    <value>Remove from presentation</value>
+  </data>
+  <data name="OnBoardingBubbleGetStarted" xml:space="preserve">
+    <value>Before you get started, check out this presentation.</value>
+  </data>
+  <data name="TemplateChooserBackToTemplates" xml:space="preserve">
+    <value>All templates</value>
+  </data>
+  <data name="DeletePreziOnlineFirstLine" xml:space="preserve">
+    <value>Are you sure you want to delete '{0}' presentation from all your devices and Prezi.com?</value>
+  </data>
+  <data name="SystemDefault" xml:space="preserve">
+    <value>Windows default</value>
+  </data>
+  <data name="SecondsViewTime" xml:space="preserve">
+    <value>{0} s</value>
+  </data>
+  <data name="LicenseExpirationSecondLineMigrationNeeded" xml:space="preserve">
+    <value>If you think you’ve received this message by mistake, please try again or [a href='https://prezi.com/support/?utm_source=prezi_desktop&amp;utm_medium=invalid_license_dialog&amp;utm_campaign=contact_support']contact support[/a].</value>
+  </data>
+  <data name="PitchUpdateInProgressExitUponFinishing" xml:space="preserve">
+    <value>{0} is updating in the background. It will automatically close once the update is finished.</value>
+  </data>
+  <data name="PresentDialogDescription" xml:space="preserve">
+    <value>Present your presentation to a remote audience.
+No Prezi account required to join.
+Also works on iPhone, iPad, Android and in most browsers of the remote audience.</value>
+  </data>
+  <data name="PasswordWatermark" xml:space="preserve">
+    <value>Enter password</value>
+  </data>
+  <data name="LicenseExpirationSecondLine" xml:space="preserve">
+    <value>If you think you’ve received this message by mistake, please try again or [a href='https://prezi.com/support/?utm_source=prezi_desktop&amp;utm_medium=invalid_license_dialog&amp;utm_campaign=contact_support']contact support[/a].</value>
+  </data>
+  <data name="PresenterViewButton" xml:space="preserve">
+    <value>Present with Presenter View</value>
+  </data>
+  <data name="SidebarJoinPresentation" xml:space="preserve">
+    <value>Join presentation</value>
+  </data>
+  <data name="Loading" xml:space="preserve">
+    <value>Loading...</value>
+  </data>
+  <data name="ShareDialogAnyone" xml:space="preserve">
+    <value>Anyone</value>
+  </data>
+  <data name="TotalViewTimes" xml:space="preserve">
+    <value>Total view times</value>
+  </data>
+  <data name="UpdatingTemplatesStatusText" xml:space="preserve">
+    <value>Updating templates</value>
+  </data>
+  <data name="RenameFolder" xml:space="preserve">
+    <value>Rename</value>
+  </data>
+  <data name="ShareDialogAllowDuplication" xml:space="preserve">
+    <value>Allow others to duplicate this presentation</value>
+  </data>
+  <data name="ImportConflictDialogTitle" xml:space="preserve">
+    <value>You already have this presentation</value>
+  </data>
+  <data name="CoeditEditorSidebarConflictDiscardButtonSubtitle" xml:space="preserve">
+    <value>and continue in the collaborator's version</value>
+  </data>
+  <data name="PreziCardNotDownloadedYetOfflineText" xml:space="preserve">
+    <value>Go online to download this presentation</value>
+  </data>
+  <data name="ImportConflictDialogTextSecondLine" xml:space="preserve">
+    <value>You can open the existing one or import it as a new presentation.</value>
+  </data>
+  <data name="CheckingForUpdateFailed" xml:space="preserve">
+    <value>Could not check for updates</value>
+  </data>
+  <data name="PreziCardNewVersionAvailable" xml:space="preserve">
+    <value>A new version is available online</value>
+  </data>
+  <data name="NewPreziInFolderPostfix" xml:space="preserve">
+    <value>in folder</value>
+  </data>
+  <data name="ViewSyncedPrezis" xml:space="preserve">
+    <value>View your synced presentations on Prezi.com</value>
+  </data>
+  <data name="PezExportNoPermissionToWriteFileErrorMessage" xml:space="preserve">
+    <value>You do not have permission to write in this folder. Please try again and choose another folder or drive to export your presentation.</value>
+  </data>
+  <data name="PezExportUnkownErrorMessage" xml:space="preserve">
+    <value>Please try export this presentation again.</value>
+  </data>
+  <data name="ZeroViewTime" xml:space="preserve">
+    <value>-</value>
+  </data>
+  <data name="GoogleSsoNotPreziUserDescription" xml:space="preserve">
+    <value>Sign up for a Plus or higher Prezi Next plan for access to the desktop app and many other powerful presentation tools.</value>
+  </data>
+  <data name="AnalyticsPaywallSubtitle" xml:space="preserve">
+    <value>Track who views your presentation and which parts pique their interest with Prezi Premium.</value>
+  </data>
+  <data name="CoeditEditorSidebarOfflineTitle" xml:space="preserve">
+    <value>You are offline</value>
+  </data>
+  <data name="Yesterday" xml:space="preserve">
+    <value>yesterday</value>
+  </data>
+  <data name="CloseAnyway" xml:space="preserve">
+    <value>Close anyway</value>
+  </data>
+  <data name="SkillLevelNovice" xml:space="preserve">
+    <value>Novice</value>
+  </data>
+  <data name="CloseButton" xml:space="preserve">
+    <value>Close</value>
+  </data>
+  <data name="ShareDialogWhoCanSee" xml:space="preserve">
+    <value>Who can see this presentation?</value>
+  </data>
+  <data name="ConflictModifiedLabel" xml:space="preserve">
+    <value>modified: {0}</value>
+  </data>
+  <data name="ExportToPdfWindowTitle" xml:space="preserve">
+    <value>Export to PDF</value>
+  </data>
+  <data name="DetailViewOnboardingCreateFirstLink" xml:space="preserve">
+    <value>Try it now! See how easy it is to share a presentation for each individual client.</value>
+  </data>
+  <data name="PreziDetailsAnalyticsButton" xml:space="preserve">
+    <value>Take me there</value>
+  </data>
+  <data name="LicenseExpiredCheckLicenseButtonText" xml:space="preserve">
+    <value>Check license status</value>
+  </data>
+  <data name="TrialExpiredDialogMessageMULAdmin" xml:space="preserve">
+    <value>But don't worry. You can continue accessing your content and features in Prezi Business by purchasing the license now. 
+
+If you have any questions, feel free to contact us at {0}.</value>
+  </data>
+  <data name="SaveFailed" xml:space="preserve">
+    <value>Please try again to avoid losing any changes.</value>
+  </data>
+  <data name="UntitledPreziText" xml:space="preserve">
+    <value>Untitled presentation</value>
+  </data>
+  <data name="HelpAndSupportTitle" xml:space="preserve">
+    <value>Help &amp; Support</value>
+  </data>
+  <data name="DeleteLinkDialogTitle" xml:space="preserve">
+    <value>Deactivate link?</value>
+  </data>
+  <data name="TemplateDialogTitleOnFailure" xml:space="preserve">
+    <value>Ohoh, something went wrong</value>
+  </data>
+  <data name="TemplateDialogDescriptionOnError" xml:space="preserve">
+    <value>Some templates could not be downloaded. What would you like to do?</value>
+  </data>
+  <data name="ViewAnalyticsMenuItem" xml:space="preserve">
+    <value>View analytics</value>
+  </data>
+  <data name="TurnOnTracking" xml:space="preserve">
+    <value>Turn on tracking</value>
+  </data>
+  <data name="PitchEditorSessionReloadFailedDescription" xml:space="preserve">
+    <value>This presentation could not be synced. Please make sure you’re connected to the Internet and try again.</value>
+  </data>
+  <data name="Description" xml:space="preserve">
+    <value>{0} {1} is now available, you have version {2} installed.
+Would you like to install it now?</value>
+  </data>
+  <data name="AtSpecificDate" xml:space="preserve">
+    <value>on {0} at {1}</value>
+  </data>
+  <data name="PitchUpdaterDownloadingUpdatesFailedDescription" xml:space="preserve">
+    <value>Please check your Internet connection.</value>
+  </data>
+  <data name="SavingPreziBeforeClosingTitle" xml:space="preserve">
+    <value>Saving presentation</value>
+  </data>
+  <data name="MigrationDiskFullDescription" xml:space="preserve">
+    <value>Your presentations could not be migrated because your disk is full. Please free up some space on your computer and restart the application. Don’t worry, your presentations are safe.</value>
+  </data>
+  <data name="DeletePreziMenuItem" xml:space="preserve">
+    <value>Delete</value>
+  </data>
+  <data name="DoneButtonText" xml:space="preserve">
+    <value>Done</value>
+  </data>
+  <data name="CommentingPaywallTitle" xml:space="preserve">
+    <value>Comment directly in presentations with Prezi Business</value>
+  </data>
+  <data name="PitchUpdaterUpdateIsReadyDescription" xml:space="preserve">
+    <value>Relaunch the app to use the latest version, it will take only a few seconds.</value>
+  </data>
+  <data name="ExportingInProgress" xml:space="preserve">
+    <value>Exporting ...</value>
+  </data>
+  <data name="PbizErrorTitle" xml:space="preserve">
+    <value>Couldn't export</value>
+  </data>
+  <data name="LicenseExpirationFirstLineMigrationNeeded" xml:space="preserve">
+    <value>Don’t worry, all your presentations are safe. Please upgrade this account to a Pro or Edu Pro license to continue.</value>
+  </data>
+  <data name="UpsellFeatures" xml:space="preserve">
+    <value>•  Advanced collaboration and commenting
+
+•  Analytics and leaderboards
+
+•  Live Prezi for remote presenting
+
+•  Simplified admin and content controls
+
+•  Slack integration
+
+•  Phone support 
+
+•  Advanced training available</value>
+  </data>
+  <data name="FilterStringAllSupportedAudioFiles" xml:space="preserve">
+    <value>Audio files</value>
+  </data>
+  <data name="SkillLevelMaster" xml:space="preserve">
+    <value>Master</value>
+  </data>
+  <data name="MakeACopyMenuItem" xml:space="preserve">
+    <value>Make a copy</value>
+  </data>
+  <data name="DownloadNewVersion" xml:space="preserve">
+    <value>Download latest version</value>
+  </data>
+  <data name="PageViewSummary" xml:space="preserve">
+    <value>Page view summary</value>
+  </data>
+  <data name="Discoverable" xml:space="preserve">
+    <value>Discoverable</value>
+  </data>
+  <data name="RemoveCurrentUserCollaboratorsInEditorSecondLine" xml:space="preserve">
+    <value>Any unsaved changes you’ve made will be lost, so please save your work before removing yourself.</value>
+  </data>
+  <data name="NumberOfViewers" xml:space="preserve">
+    <value>Number of viewers</value>
+  </data>
+  <data name="ImportPreziFailedDialogImportAnywayButton" xml:space="preserve">
+    <value>Import anyway</value>
+  </data>
+  <data name="RemotePresentationLinkSeemsToBeInvalid" xml:space="preserve">
+    <value>Link invalid. Please check and try again.</value>
+  </data>
+  <data name="OfflineLoginFailedMessage" xml:space="preserve">
+    <value>Unable to connect to the Internet. If you’re online and still have problems, check out [a href='https://prezi.com/support/article/win-mac/troubleshooting-prezi-for-windows-mac-connection-issues/']this article[/a] for help.</value>
+  </data>
+  <data name="PrivacySettingsPublicTitle" xml:space="preserve">
+    <value>Anyone on the web</value>
+  </data>
+  <data name="PitchNewPreziMenuItem" xml:space="preserve">
+    <value>New</value>
+  </data>
+  <data name="ViewerPreziHasNewVersionTitle" xml:space="preserve">
+    <value>There is a newer version of this presentation</value>
+  </data>
+  <data name="PitchUpdaterUpdateIsInProgress" xml:space="preserve">
+    <value>Hold your horses, the app is updating</value>
+  </data>
+  <data name="SettingsUploadBlockedWarning" xml:space="preserve">
+    <value>Your group admin has disabled the function to view and create synced presentations in this app.</value>
+  </data>
+  <data name="PitchEditor" xml:space="preserve">
+    <value>Can edit</value>
+  </data>
+  <data name="HelpMenu" xml:space="preserve">
+    <value>Help</value>
+  </data>
+  <data name="PreziRemoteMenuItem" xml:space="preserve">
+    <value>Present with Prezi Remote</value>
+  </data>
+  <data name="SettingsMenuItem" xml:space="preserve">
+    <value>Settings</value>
+  </data>
+  <data name="FilterStringAllSupportedImages" xml:space="preserve">
+    <value>Images</value>
+  </data>
+  <data name="BluetoothFeatureDialogDescription" xml:space="preserve">
+    <value>This lets you use your mobile device as a presentation remote. Once you continue, you’ll see another message from Windows. When you agree to that, {0} will restart. You’ll only need to do this once. 
+
+Please make sure to save all your work before continuing.</value>
+  </data>
+  <data name="YourAccountMenuItem" xml:space="preserve">
+    <value>Your account</value>
+  </data>
+  <data name="SilentUpdateSettingsText" xml:space="preserve">
+    <value>Download updates automatically</value>
+  </data>
+  <data name="LoginFailedMessage" xml:space="preserve">
+    <value>Login failed. Please try again.</value>
+  </data>
+  <data name="EmptyTemplateGroupPlaceholder" xml:space="preserve">
+    <value>No results for this color selection.</value>
+  </data>
+  <data name="TrialExpireSoonLessThanOneDay" xml:space="preserve">
+    <value>Less than 1 day until your trial ends.</value>
+  </data>
+  <data name="PezExportUnknownErrorTitle" xml:space="preserve">
+    <value>We could not export your presentation</value>
+  </data>
+  <data name="SyncStatusMoreRemaining" xml:space="preserve">
+    <value>{0} presentations remaining</value>
+  </data>
+  <data name="PezExportNotEnoughDiskSpaceErrorMessage" xml:space="preserve">
+    <value>Please free up some space or choose another drive and try to export again.</value>
+  </data>
+  <data name="PitchUpdaterDoItLaterButton" xml:space="preserve">
+    <value>Do it later</value>
+  </data>
+  <data name="TimeSpentOnStoryboardStepLabel" xml:space="preserve">
+    <value>Time: {0}</value>
+  </data>
+  <data name="GeneratingLink" xml:space="preserve">
+    <value>Generating link...</value>
+  </data>
+  <data name="PezFileFilter" xml:space="preserve">
+    <value>{0} files (*.pez)|*.pez</value>
+  </data>
+  <data name="WindowMenu" xml:space="preserve">
+    <value>Window</value>
+  </data>
+  <data name="PitchDownloadingUpdates" xml:space="preserve">
+    <value>Downloading update...</value>
+  </data>
+  <data name="ExportButtonTextPreparing" xml:space="preserve">
+    <value>Preparing...</value>
+  </data>
+  <data name="ConfirmRevokeLink" xml:space="preserve">
+    <value>This link will be permanently deactivated and the people you've shared it with won't have access to the presentation anymore.</value>
+  </data>
+  <data name="NoUpdateFoundUpdateProcessState" xml:space="preserve">
+    <value>No update available</value>
+  </data>
+  <data name="Downloading" xml:space="preserve">
+    <value>Downloading...</value>
+  </data>
+  <data name="StoryboardCurrentPage" xml:space="preserve">
+    <value>Page {0}</value>
+  </data>
+  <data name="TemplateChooserCategoriesLabel" xml:space="preserve">
+    <value>Categories</value>
+  </data>
+  <data name="LicenseExpiredOnlineStateTitle" xml:space="preserve">
+    <value>OK, see you online!</value>
+  </data>
+  <data name="LicenseExpiredUpgradeStateMessage" xml:space="preserve">
+    <value>IMPORTANT! If you plan to close this app in the meantime, please be sure to save all your changes first.</value>
+  </data>
+  <data name="PbizErrorDescription" xml:space="preserve">
+    <value>Your presentation couldn't be exported. Make sure you have enough disk space and try again. If the problem persists, please contact support.</value>
+  </data>
+  <data name="DetailViewOnboardingPresent" xml:space="preserve">
+    <value>See what you can do with Prezi Next. Then come back here for an exciting surprise.</value>
+  </data>
+  <data name="CreateLinkButtonText" xml:space="preserve">
+    <value>Create a new link</value>
+  </data>
+  <data name="UpsellDialogContactSales" xml:space="preserve">
+    <value>Let's talk</value>
+  </data>
+  <data name="UploadingPreziContent" xml:space="preserve">
+    <value>Syncing</value>
+  </data>
+  <data name="PezImportAssetNotFoundInRepoErrorMessage" xml:space="preserve">
+    <value>Some content such as images, video, or other files might be missing from this presentation.</value>
+  </data>
+  <data name="PresentPreziButton" xml:space="preserve">
+    <value>Present</value>
+  </data>
+  <data name="NewLocalPrezi" xml:space="preserve">
+    <value>New local presentation</value>
+  </data>
+  <data name="PitchUpdaterDownloadAndInstallUpdateButton" xml:space="preserve">
+    <value>Download and install update</value>
+  </data>
+  <data name="CreateAnalytics" xml:space="preserve">
+    <value>Create analytics</value>
+  </data>
+  <data name="ShowLogin" xml:space="preserve">
+    <value>Login</value>
+  </data>
+  <data name="LicenseExpirationMultiLineMigrationNeeded" xml:space="preserve">
+    <value>Don’t worry, all your presentations are safe. Please upgrade this account to a Pro or Edu Pro license to continue.
+
+If you think you’ve received this message by mistake, please try again or [a href='https://prezi.com/support/?utm_source=prezi_desktop&amp;utm_medium=invalid_license_dialog&amp;utm_campaign=contact_support']contact support[/a].</value>
+  </data>
+  <data name="Warning" xml:space="preserve">
+    <value>Warning</value>
+  </data>
+  <data name="CoeditEditorSidebarOfflineSubtitle" xml:space="preserve">
+    <value>Possible version conflict</value>
+  </data>
+  <data name="CoeditEditorSidebarConflictTitle" xml:space="preserve">
+    <value>Version conflict</value>
+  </data>
+  <data name="PreziDownloadFailDialogTextLine1" xml:space="preserve">
+    <value>There was an error while downloading the newest version of this presentation.</value>
+  </data>
+  <data name="PreziDownloadFailDialogTextLine2" xml:space="preserve">
+    <value>Please try downloading again, or contact support.</value>
+  </data>
+  <data name="TemplateChooserTitle" xml:space="preserve">
+    <value>Choose a template</value>
+  </data>
+  <data name="RetrySave" xml:space="preserve">
+    <value>Retry</value>
+  </data>
+  <data name="ViewOnPreziAnalytics" xml:space="preserve">
+    <value>View on Prezi Analytics</value>
+  </data>
+  <data name="Copy" xml:space="preserve">
+    <value>Copy</value>
+  </data>
+  <data name="Open" xml:space="preserve">
+    <value>Open</value>
+  </data>
+  <data name="Help" xml:space="preserve">
+    <value>Help</value>
+  </data>
+  <data name="Send" xml:space="preserve">
+    <value>Send</value>
+  </data>
+  <data name="PitchConflictDialogTitle" xml:space="preserve">
+    <value>Save your changes</value>
+  </data>
+  <data name="AddPreziToFolderTitle" xml:space="preserve">
+    <value>Add to folder</value>
+  </data>
+  <data name="MinutesViewTime" xml:space="preserve">
+    <value>{0} m</value>
+  </data>
+  <data name="KnowledgeBaseMenuItem" xml:space="preserve">
+    <value>Knowledge base</value>
+  </data>
+  <data name="UpdatingApp" xml:space="preserve">
+    <value>Updating application</value>
+  </data>
+  <data name="PitchViewer" xml:space="preserve">
+    <value>Can present</value>
+  </data>
+  <data name="PreviewPreziMenuItem" xml:space="preserve">
+    <value>Preview</value>
+  </data>
+</root>
